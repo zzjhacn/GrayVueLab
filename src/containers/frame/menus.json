@@ -1,0 +1,48 @@
+[{
+    "lnk": "/admin/dashboard",
+    "label": "Dashboard",
+    "icon": "icon-speedometer"
+  },
+  {
+    "lnk": "/admin/tools",
+    "label": "Tools",
+    "icon": "icon-speedometer",
+    "children": [{
+        "lnk": "/codec",
+        "label": "Codec",
+        "icon": "icon-speedometer"
+      },
+      {
+        "lnk": "/qr",
+        "label": "QRCode",
+        "icon": "icon-speedometer"
+      }
+    ]
+  },
+  {
+    "lnk": "/admin/icons",
+    "label": "Icons",
+    "icon": "icon-picture",
+    "children": [{
+      "lnk": "/fa",
+      "label": "FontAwesome",
+      "bdgText": "1",
+      "icon": "fa fa-picture-o"
+    }, {
+      "lnk": "/simpleline",
+      "label": "SimpleLine",
+      "bdgText": "1",
+      "icon": "icons icon-picture"
+    }]
+  },
+  {
+    "lnk": "/admin/uidev",
+    "label": "UI-Dev",
+    "icon": "icon-speedometer"
+  },
+  {
+    "lnk": "/admin/drag",
+    "label": "Drag",
+    "icon": "icon-speedometer"
+  }
+]
